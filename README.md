@@ -2,27 +2,37 @@
 
 1. What are the functionalities involved, and the microservices you've created?
 
-User Services
+**•User Services**
 
-addUser
-getUserById
-deleteUserById
-updateUserById
+-addUser
 
-Products Services
+-getUserById
 
-addProducts
-getProductsById
-deleteProductsById
-getAllProducts
-updateProductsById
+-deleteUserById
 
-Cart Services
+-updateUserById
 
-addToCart
-getCartById
-updateCartById
-cartRemove
+**•Products Services**
+
+-addProducts
+
+-getProductsById
+
+-deleteProductsById
+
+-getAllProducts
+
+-updateProductsById
+
+**•Cart Services**
+
+-addToCart
+
+-getCartById
+
+-updateCartById
+
+-cartRemove
 
 2. Why do you think that the functionality needs to be isolated from another service?
 
