@@ -31,3 +31,4 @@ without impacting the other services. This also enables independent scaling of r
 allowing them to handle varying loads independently. Moreover, by isolating functionality, 
 issues in one service can be prevented from affecting the entire system, increasing the overall resilience of the system.
 
+
